@@ -1,16 +1,52 @@
-## Hi there 👋
+# Paul Gatheru
 
-<!--
-**GATHERU99/GATHERU99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | CX Strategist | Building Metacom Virtuals
 
-Here are some ideas to get you started:
+I turn physical spaces into immersive data-driven experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I operate at the intersection of:
+
+- Data Analytics
+- Customer Experience (CX)
+- 3D / Virtual Reality (VR)
+
+## Currently Building
+
+### Metacom Virtuals
+Helping businesses increase visibility, engagement, and conversions using immersive virtual tours and analytics.
+
+## Current Focus
+
+- Python
+- SQL
+- Power BI
+- Data Analytics
+- Customer Experience Strategy
+- Virtual Tour Analytics
+- Business Development
+
+## Featured Projects
+
+### Prompt Vault for Data Analytics & AI
+Reusable prompts, frameworks, playbooks, and workflows for:
+- Data Analysis
+- SQL
+- Python
+- Power BI
+- Content Creation
+- Business Operations
+
+### Metacom Virtuals
+Case studies, ROI analysis, proposals, and virtual-tour business resources.
+
+## Connect
+
+LinkedIn:
+www.linkedin.com/in/paulgatheru
+
+Location:
+Nairobi, Kenya
+
+---
+
+Always learning. Always building.
