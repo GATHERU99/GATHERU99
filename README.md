@@ -18,8 +18,10 @@ Helping businesses increase visibility, engagement, and conversions using immers
 ## Current Focus
 
 - Python
+-Excel
 - SQL
 - Power BI
+-R
 - Data Analytics
 - Customer Experience Strategy
 - Virtual Tour Analytics
